@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN"
+"glossgroup.dtd">
+<glossgroup id="DockBook">
+  <title>Эмулятор</title>
+
+  <glossentry id="DockBook-2">
+    <glossterm>О эмуляторе</glossterm>
+
+    <glossdef>один старейших эмуляторов Sega Mega Drive / Genesis. Оригинальная
+    версия эмулятора с GUI, к сожалению, заброшена с 2000 года, но
+    SDL-порт/форк эмулятора продолжает жить и развиваться, благодаря чему был
+    портирован на множество платформ. У актуальной версии эмулятора нет GUI,
+    требуется запуск из командой строки и управление в vi-стиле.</glossdef>
+  </glossentry>
+
+  <glossentry id="DockBook-3">
+    <glossterm>Описание модулей программы</glossterm>
+
+    <glossdef>Модуль видео:
+    1. Воспроизведения графики игры
+    2. Работа с графическим процессором
+    Модуль аудио:
+    3. Воспроизводство звуки и музыку
+    Модуль CD-ROM:
+    4. Поддержка оптического привода
+    5. Эмуляция различных типов чтения дисков
+    Модуль манипуляторов
+    6. DualShock с USB-переходником
+    7. Использованя нестандартные манипуляторы</glossdef>
+  </glossentry>
+
+  <glossentry id="DockBook-4">
+    <glossterm>Авторы </glossterm>
+
+    <glossdef> Иванов Н.В, Пи-18а</glossdef>
+  </glossentry>
+</glossgroup>
+
